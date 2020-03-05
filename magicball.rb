@@ -7,7 +7,7 @@ greetings = [
 	]
 
 answers = [
-	#positive
+	#positive answers
 	"It is certain.",
 	"It is decidedly so.",
 	"Yes - definitely.",
@@ -21,7 +21,7 @@ answers = [
 	"Ask again later.",
 	"The answer is 42",
 
-	#negative
+	#negative answers
 	"Better not tell you now.",
 	"Cannot predict now.",
 	"Concentrate and ask again.",
