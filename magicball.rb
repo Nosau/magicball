@@ -3,7 +3,8 @@ greetings = [
   "Let me think:",
   "You have a question? I have an answer!",
   "My Answer to the Ultimate Question of Life,
-  the Universe, and Everything is...",]
+  the Universe, and Everything is...
+]
 
 answers = [
   #positive answers
@@ -28,7 +29,8 @@ answers = [
   "My reply is no.",
   "My sources say no.",
   "Outlook not so good.",
- "Very doubtful."]
+  "Very doubtful."
+]
 
 puts greetings.sample
 puts
